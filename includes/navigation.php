@@ -1,5 +1,5 @@
  <?php session_start(); ?>
- <?php $base_url = "http://localhost/ecommerce"; ?>
+ <?php $base_url = "http://34.68.146.86/~ak2432/ecommerce"; ?>
  <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
    <div class="container">
      <!-- Brand and toggle get grouped for better mobile display -->
