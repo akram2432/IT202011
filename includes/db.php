@@ -2,11 +2,12 @@
 
 $db['db_host'] = "localhost";
 
-$db['db_user'] = "root";
+$db['db_user'] = "ak2432";
 
-$db['db_pass'] = "";
+$db['db_pass'] = "dTYww50HqLsVDLbE";
 
-$db['db_data'] = "ecommerce";
+$db['db_data'] = "ak2432";
+
 
 foreach ($db as $key => $value) {
 
